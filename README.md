@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/hrituraj24468/hrituraj24468/master/Welcome To My Profile.gif.gif)
+![](https://raw.githubusercontent.com/hrituraj24468/hrituraj24468/master/Welcome-To-My-Profile.gif.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Hrituraj Singh</h1>
 <h3 align="center">A passionate Coder... Love to learn about computers and to communicate with computer</h3>
