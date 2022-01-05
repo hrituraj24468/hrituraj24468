@@ -19,4 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrituraj24468&show_icons=true&locale=en&layout=compact" alt="hrituraj24468" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrituraj24468&show_icons=true&locale=en" alt="hrituraj24468" /></p>
+
+## Snake eating my contribution graph.... :-(
 ![snake gif](https://github.com/hrituraj24468/hrituraj24468/blob/output/github-contribution-grid-snake.gif)
